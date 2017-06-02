@@ -13,7 +13,7 @@ int fun(shared_future<int> f)
 	cout << "Result is " << res << endl;
 	return res;
 }
-
+//sssss
 int main()
 {
 	/// just test
