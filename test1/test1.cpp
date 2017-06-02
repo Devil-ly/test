@@ -16,6 +16,7 @@ int fun(shared_future<int> f)
 
 int main()
 {
+	/// just test
 	int x;
 	promise<int> p;
 	future<int> fu1 = p.get_future();
